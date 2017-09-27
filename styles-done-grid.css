@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 900px;
+    min-width: 600px;
+    font-family:  "Abel", sans-serif;
+}
+
+.gallery figure {
+    color: #563f46;
+    float: left;
+    height: 175px;
+    margin: 20px;
+    text-align: center;
+    width: 28%;
+    font-family: "Abel", sans-serif;
+}
+
